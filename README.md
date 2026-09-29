@@ -145,12 +145,15 @@ Measures when `emplace_back` actually beats `push_back`, and when it doesn't.
 
 ---
 
-## 📈 GitHub Stats
+---
 
-<div align="center">
-<img src="./profile-summary-card-output/<theme-folder>/3-stats.svg" height="165" alt="GitHub Stats"/>
-<img src="./profile-summary-card-output/<theme-folder>/2-most-commit-language.svg" height="165" alt="Top Languages"/>
-</div>
+##  GitHub
+
+My repositories focus on:
+
+`Modern C++` · `Linux Systems` · `Concurrency` · `Distributed Systems` · `Storage Engines` · `Networking` · `Performance Engineering`
+
+[→ Explore my repositories](https://github.com/Krish1994-coder?tab=repositories)
 
 ---
 
