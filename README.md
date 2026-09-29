@@ -148,8 +148,8 @@ Measures when `emplace_back` actually beats `push_back`, and when it doesn't.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krish1994-coder&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish1994-coder&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages"/>
+  <img src="./profile-summary-card-output/github/3-stats.svg" height="165" alt="GitHub Stats"/>
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" height="165" alt="Top Languages"/>
 </div>
 
 ---
