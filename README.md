@@ -150,7 +150,23 @@ A **high-performance multithreaded C++ key-value store** with an LRU cache, pers
 
 ---
 
-### 03 · Weak Cipher Detection Agent
+### 03 · Distributed In-Memory Data Storage & Loader
+
+<a href="https://github.com/Krish1994-coder/Distributed-InMemory-Data-Storage-Loader">
+  <img src="https://img.shields.io/badge/PRIVATE%20REPOSITORY-6F42C1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+A **C++17 distributed in-memory data storage and loading system** designed around deterministic partitioning, local and remote record routing, batched transport, duplicate-key resolution and end-to-end verification.
+
+The implementation models a **1–5 node cluster within a single process**, with per-node loader and receiver threads and a mock socket-style transport layer.
+
+**Engineering areas**
+
+`C++17` `Distributed Systems` `Data Partitioning` `Concurrency` `Batching` `Mock Networking` `In-Memory Storage` `Duplicate Resolution` `Verification`
+
+---
+
+### 04 · Weak Cipher Detection Agent
 
 <a href="https://github.com/Krish1994-coder/Weak-Cipher-Detection-Agent">
   <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -164,7 +180,7 @@ A security-focused **C++ scanning agent** created during a hackathon to detect w
 
 ---
 
-### 04 · Exasol C++ SSL Client
+### 05 · Exasol C++ SSL Client
 
 <a href="https://github.com/Krish1994-coder/exasol-cpp-ssl-client">
   <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -178,7 +194,7 @@ A C++ project focused on **SSL/TLS client-side communication and secure networki
 
 ---
 
-### 05 · C++ push_back vs emplace_back Benchmark
+### 06 · C++ push_back vs emplace_back Benchmark
 
 <a href="https://github.com/Krish1994-coder/cpp-push-vs-emplace-benchmark">
   <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -214,76 +230,55 @@ The projects above are intentionally centered around the areas I work toward pro
               └────────────┼────────────┘
                            │
                     Reliable Systems
-```
+                           │
+                    Distributed Systems
+Repository Portfolio
+Repository	Focus	Visibility
+tinydb	Relational database / storage-engine internals	Public
+fastkvs	Multithreaded key-value store	Public
+Distributed-InMemory-Data-Storage-Loader	Distributed data loading, partitioning, batching and in-memory storage	Private
+Weak-Cipher-Detection-Agent	TLS/SSL security analysis	Public
+exasol-cpp-ssl-client	C++ SSL/TLS networking	Public
+cpp-push-vs-emplace-benchmark	C++ STL performance benchmarking	Public
 
----
+→ View all repositories
 
-## Public Repositories
+Currently Learning & Building
+C++20/23 language and library features
+Linux internals and systems programming
+Database and storage-engine internals
+Concurrency and performance engineering
+Memory behavior and profiling
+Distributed systems fundamentals
+Practical systems-oriented C++ projects
+Open-source C++ and systems-programming contributions
+AI-Assisted Engineering
 
-| Repository | Focus |
-|---|---|
-| **[tinydb](https://github.com/Krish1994-coder/tinydb)** | Relational database / storage-engine internals |
-| **[fastkvs](https://github.com/Krish1994-coder/fastkvs)** | Multithreaded key-value store |
-| **[Weak-Cipher-Detection-Agent](https://github.com/Krish1994-coder/Weak-Cipher-Detection-Agent)** | TLS/SSL security analysis |
-| **[exasol-cpp-ssl-client](https://github.com/Krish1994-coder/exasol-cpp-ssl-client)** | C++ SSL/TLS networking |
-| **[cpp-push-vs-emplace-benchmark](https://github.com/Krish1994-coder/cpp-push-vs-emplace-benchmark)** | C++ STL performance benchmarking |
-
-**[→ View all repositories](https://github.com/Krish1994-coder?tab=repositories)**
-
----
-
-## Currently Learning & Building
-
-- **C++20/23** language and library features
-- **Linux internals** and systems programming
-- **Database and storage-engine internals**
-- **Concurrency and performance engineering**
-- **Memory behavior and profiling**
-- **Distributed systems fundamentals**
-- Practical **systems-oriented C++ projects**
-- Open-source C++ and systems-programming contributions
-
----
-
-## AI-Assisted Engineering
-
-I actively use modern AI developer tools as part of my **learning, experimentation and engineering workflow**.
+I actively use modern AI developer tools as part of my learning, experimentation and engineering workflow.
 
 Areas of exploration include:
 
-- AI-assisted coding and code review
-- Debugging and root-cause exploration
-- Documentation and technical research
-- Workflow automation
-- API/tool integration
-- Personal AI workflow experiments
+AI-assisted coding and code review
+Debugging and root-cause exploration
+Documentation and technical research
+Workflow automation
+API/tool integration
+Personal AI workflow experiments
 
-The goal is simple: **use AI to accelerate engineering without replacing engineering fundamentals.**
+The goal is simple: use AI to accelerate engineering without replacing engineering fundamentals.
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Krish1994-coder&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish1994-coder&layout=compact&hide_border=true&theme=transparent" width="41%" alt="Top Languages"/>
-
-</div>
-
----
-
+GitHub Activity
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Krish1994-coder&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="49%" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish1994-coder&layout=compact&hide_border=true&theme=transparent" width="41%" alt="Top Languages"/> </div>
 ## Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/varanasi-sai-krishna-997a7b1a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <a href="https://github.com/Krish1994-coder">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
 </a>
 
 </div>
